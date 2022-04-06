@@ -1,0 +1,7 @@
+.active {
+    display: inline-block;
+}
+
+ul {
+    float: right;
+}
